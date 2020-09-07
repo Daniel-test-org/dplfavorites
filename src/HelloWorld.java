@@ -13,5 +13,7 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("Hello partner!");
 		System.out.println("hello again");
+		System.out.println("more changes");
+		System.out.println("more again");
 	}
 }
